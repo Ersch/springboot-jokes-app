@@ -10,5 +10,6 @@ public class JockesConfiguration {
     @Bean
     public ChuckNorrisQuotes chuckNorrisQuotes(){
         return new ChuckNorrisQuotes();
+
     }
 }
